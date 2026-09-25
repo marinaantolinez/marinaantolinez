@@ -1,4 +1,6 @@
 
+<img width="1313" height="736" alt="ROBOTIC ARM" src="https://github.com/user-attachments/assets/18b0f3fb-bd31-4ed6-a6ca-137141741f97" />
+
 # Hi welcome, I'm Marina!
 
 Final-year **Robotics & Software Engineering** student at Universidad Rey Juan Carlos (Madrid), currently completing an international studing and research exchange at **Universidad Nacional de Colombia (Bogotá)**.
