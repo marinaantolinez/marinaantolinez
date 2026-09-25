@@ -1,5 +1,5 @@
 
-![logotipo](img/arm.png)
+![logotipo](img/arm.jpeg)
 
 # Hi welcome, I'm Marina!
 
