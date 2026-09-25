@@ -1,5 +1,5 @@
 
-<img width="1313" height="736" alt="ROBOTIC ARM" src="https://github.com/user-attachments/assets/18b0f3fb-bd31-4ed6-a6ca-137141741f97" />
+![logotipo](img/arm.png)
 
 # Hi welcome, I'm Marina!
 
