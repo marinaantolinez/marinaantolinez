@@ -11,7 +11,7 @@ My technical focus lies in low-level software architecture, real-time middleware
 
 ### 🔬 Current Research & Engineering Projects
 
-#### 🤖 [KUKA YouBot Motion Planning & RL Environment](https://github.com/marina-antolinez) *(In Progress)*
+#### 🤖 [KUKA YouBot Motion Planning & RL Environment](https://github.com/tamara-n-k/intelligent_grasping) *(In Progress)*
 *Research project at Universidad Nacional de Colombia (Bogotá)*
 - Built a high-fidelity simulation environment from scratch in **MuJoCo** for the KUKA YouBot platform.
 - Integrated multi-sensor suites and developed custom low-level **Motion Planning** algorithms.
